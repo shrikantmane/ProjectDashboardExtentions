@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="ProjectDashboardStyles"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="06da2e32-a32d-4929-8ff2-c18c031d53b4"
+        ClientSideComponentProperties="{&quot;cssurl&quot;:&quot;/Style%20Library/CustomStyles.css&quot;}">
+    </CustomAction>
+</Elements>
